@@ -1,0 +1,3 @@
+module Naisyo
+  VERSION = "0.0.1"
+end
